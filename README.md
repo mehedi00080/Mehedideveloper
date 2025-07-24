@@ -14,7 +14,7 @@
 - 🧠 I’m skilled in **Laravel**, **PHP**, and full-stack development  
 - 🛠️ I build dynamic, secure, and responsive websites & admin panels  
 - 🌱 Currently learning **Vue.js**, **REST APIs**, and advanced Laravel features  
-- 📫 How to reach me: **mehedi.yourmail@example.com**  
+- 📫 How to reach me: **mehedi.bdjobstation.blogspot .com**  
 - 🔗 LinkedIn: [linkedin.com/in/mehedibhai
 
 ---
